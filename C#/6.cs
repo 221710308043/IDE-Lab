@@ -8,7 +8,7 @@ namespace myApp
     {
         static void Main()
         {
-            var names = new List<String>{"Pavan","Felipe", "Emillia"};
+            var names = new List<String>{"Hari","Felipe", "Emillia"};
             foreach(var name in names){
                 Console.WriteLine($"Hello {name.ToUpper()}!");
             }
