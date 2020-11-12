@@ -8,7 +8,7 @@ namespace myApp
     {
         static void Main()
         {
-            String name = "Pavan";
+            String name = "Hari";
             Console.WriteLine("Hello "+name);
         }
     }
